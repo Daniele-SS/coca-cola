@@ -26,7 +26,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
+    background-color:rgba(255, 0, 0, 0.633);
 }
 
 .background-logo {
@@ -44,8 +44,8 @@ main {
 .content-text{
     position: absolute;
     color: #FFFFFF;
-    font-size: 2.5rem;
-    width: 240px;
+    font-size: 2.9rem;
+    width: 1000px;
     transform: translateX(-100%)
     text-align: end;
 }
