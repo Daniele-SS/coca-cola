@@ -72,8 +72,8 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 75px;
     padding-right: 75px;
+    padding-left: 75px;
     color: #FFFFFF;
     font-weight: 100;
 }
@@ -82,7 +82,7 @@ footer div{
     width: 64px;
 }
 
-@media (max-widht: 768px;) {
+@media (max-widht: 768px) {
     header{
         padding-left: 25px;
     }
@@ -96,11 +96,15 @@ footer div{
 }
 
 .content-image{
-    height: 70vw;
+    height: 70vh;
 }
 
 footer{
     padding: 0px 25px;
 }
 
+}
+
+h2{
+    text-shadow: 2px 2px 4px #000000; 
 }
