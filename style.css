@@ -79,7 +79,7 @@ footer{
 }
 
 footer div{
-    width: 64px;
+    width: 200px;
 }
 
 @media (max-width: 768px) {
@@ -123,3 +123,5 @@ img:hover {
   transform: scale(1.05);
   transition: all 0.3s ease;
 }
+
+
