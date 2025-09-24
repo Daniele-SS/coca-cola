@@ -45,7 +45,7 @@ main {
     position: relative;
     color: #FFFFFF;
     font-size: 2.9rem;
-    width: 200px;
+    width: 250px;
     transform: translateX(-100%)
     text-align: end;
 }
@@ -107,4 +107,8 @@ footer{
 
 h2{
     text-shadow: 2px 2px 4px #000000; 
+}
+
+img {
+  filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.6));
 }
