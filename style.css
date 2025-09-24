@@ -42,10 +42,10 @@ main {
 }
 
 .content-text{
-    position: relative;
+    position: absolute;
     color: #FFFFFF;
     font-size: 2.9rem;
-    width: 0px;
+    width: 1000px;
     transform: translateX(-100%)
     text-align: end;
 }
