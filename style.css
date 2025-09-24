@@ -42,10 +42,10 @@ main {
 }
 
 .content-text{
-    position: absolute;
+    position: relative;
     color: #FFFFFF;
     font-size: 2.9rem;
-    width: 1000px;
+    width: 250px;
     transform: translateX(-100%)
     text-align: end;
 }
@@ -82,7 +82,7 @@ footer div{
     width: 64px;
 }
 
-@media (max-widht: 768px) {
+@media (max-width: 768px) {
     header{
         padding-left: 25px;
     }
