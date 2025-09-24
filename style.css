@@ -109,6 +109,11 @@ h2{
     text-shadow: 2px 2px 4px #000000; 
 }
 
+h2:hover{
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+
 img {
   filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.6));
 }
